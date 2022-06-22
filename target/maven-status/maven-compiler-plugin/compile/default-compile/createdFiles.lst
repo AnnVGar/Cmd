@@ -8,4 +8,5 @@ impl\JDBCCommand.class
 impl\CommandFactory.class
 MainCmd.class
 impl\CatCommand.class
+impl\HiberCommand.class
 impl\LsCommand$1.class

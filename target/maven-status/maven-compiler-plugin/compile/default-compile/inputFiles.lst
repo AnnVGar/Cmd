@@ -1,5 +1,6 @@
 D:\IDEA\work\Cmd\src\main\java\MainCmd.java
 D:\IDEA\work\Cmd\src\main\java\impl\JDBCCommand.java
+D:\IDEA\work\Cmd\src\main\java\impl\HiberCommand.java
 D:\IDEA\work\Cmd\src\main\java\impl\LsCommand.java
 D:\IDEA\work\Cmd\src\main\java\impl\CommandFactory.java
 D:\IDEA\work\Cmd\src\main\java\impl\Command.java
