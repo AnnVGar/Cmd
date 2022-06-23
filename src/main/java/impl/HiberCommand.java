@@ -3,6 +3,7 @@ package impl;
 import core.ICommand;
 import models.Author;
 import services.AuthorService;
+import start.Main;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -27,10 +28,11 @@ public class HiberCommand extends Command implements ICommand {
     @Override
     void execute(Map<String, ArrayList<String>> parameterMap) {
 
-        AuthorService authorService = new AuthorService();
-        List<Author> authors = authorService.findAllAuthors();
-        System.out.println(authors);
+//        AuthorService authorService = new AuthorService();
+//        List<Author> authors = authorService.findAllAuthors();
+//        System.out.println(authors);
 
+     Main.execute();
 
 
     }
